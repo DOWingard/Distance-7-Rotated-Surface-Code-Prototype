@@ -2,10 +2,6 @@
 
 ## WORK IN PROGRESS
 
-## Notebook can be run in browser via Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DOWingard/Distance-7-Rotated-Surface-Code-Prototype/blob/main/src/SurfaceCodeNB.ipynb)
-
-
 ## This is a notebook where the initial model of the rotated surface code I am building for a 7x7 Willow chip
 ![Willow Chip](Images/willow7x7.png)
 
