@@ -2,7 +2,7 @@
 
 ## WORK IN PROGRESS
 
-## This is a notebook where the initial model of the rotated surface code I am building for a 7x7 Willow chip
+## This is a notebook for the initial model of the rotated surface code I am building for a 7x7 Willow chip
 ![Willow Chip](Images/willow7x7.png)
 
 ## The relevant theory related to the rotated surface code can be found at:
