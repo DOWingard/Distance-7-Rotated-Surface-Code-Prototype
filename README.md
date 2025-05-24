@@ -6,8 +6,8 @@
 ![Willow Chip](Images/willow7x7.png)
 
 ## The relevant theory related to the rotated surface code can be found at:
-* 
-* 
+* https://arxiv.org/pdf/1208.0928
+* https://arxiv.org/pdf/2409.14765
 
 ## The code works as follows:
 1. All X-type stabilizers (both plaquette and weight-2 edges) and Z-type are measured
