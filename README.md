@@ -1,7 +1,5 @@
 # Distance-7 Rotated Surface Code 
 
-## WORK IN PROGRESS
-
 ## Notebook prototype for the initial model of the rotated surface code I am building for a 7x7 Willow chip
 ![Willow Chip](Images/willow7x7.png)
 
